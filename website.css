@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4CAF50;
+    ;
+}
